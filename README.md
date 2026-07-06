@@ -1,46 +1,75 @@
 # Hi, I'm Nave Markovich 👋
 
-### Mechanical Engineering M.Sc. Researcher | CFD & Fluid Dynamics Specialist
+## Mechanical Engineering M.Sc. Researcher | CFD & Fluid Dynamics Specialist
 
-I am a Master's student and researcher at the Fluid Mechanics Laboratory at **Ben-Gurion University of the Negev** (M.Sc. GPA: 92.75). I specialize in advanced computational fluid dynamics (CFD), electrokinetics, and complex transport phenomena. My work bridges the gap between deep theoretical physics, analytical mathematical modeling, and numerical simulations to solve complex R&D and engineering challenges.
+I am a Mechanical Engineering M.Sc. researcher at the Fluid Mechanics Laboratory, Ben-Gurion University of the Negev, specializing in fluid dynamics, electrokinetics, advanced CFD, and theoretical modeling.
 
-🥇 *Recipient of the Irwin Israel Glass Award for Academic Excellence.*
+My research focuses on gate-voltage-controlled ion transport in dielectric-embedded nanochannels, combining analytical modeling with CFD simulations in COMSOL to study electrostatic potential, charge distribution, and ionic conductance in nanofluidic systems.
+
+I am highly motivated to apply strong theoretical foundations, numerical modeling, and computational engineering skills to challenging R&D problems in research-driven industrial environments.
+
+🥇 Recipient of the Irwin Israel Glass Award for Academic Excellence.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-- **CFD & Simulation:** COMSOL Multiphysics, ANSYS, Finite Element Analysis (FEA), Finite Volume Method (FVM), Numerical Analysis.
-- **Mathematical & Analytical Modeling:** Wolfram Mathematica, MATLAB, Python.
-- **CAD & Design:** SolidWorks (Expert), AutoCAD.
-- **Programming Languages:** MATLAB, Python, C.
+**CFD & Simulation:** COMSOL Multiphysics, ANSYS, Finite Element Analysis (FEA), Numerical Analysis  
+**Mathematical & Analytical Modeling:** Wolfram Mathematica, MATLAB, theoretical modeling  
+**Programming:** MATLAB, SIMULINK, Python, C  
+**CAD & Mechanical Design:** SolidWorks, AutoCAD  
+**AI Tools:** ChatGPT, Gemini  
 
 ---
 
 ## 🔬 Research & Academic Focus
 
-* **Micro & Nanofluidics / Electrokinetics:** Investigating fundamental physical conditions governing electroneutrality breakdown within nanopores and modeling the impact of external electric potentials on dielectric-coated nano-channels.
-* **Experimental Fluid Mechanics:** Experienced in cleanroom micro/nano-fabrication utilizing Photolithography, ICPCVD, Plasma treatments, and Piranha cleaning, alongside PDMS protocols.
-* **Advanced Computational & Control Systems:** Developing custom vectorized solvers, geometric multigrid algorithms, and dynamic state estimation/control loop tracking.
+**Micro & Nanofluidics / Electrokinetics**  
+Developing a theoretical framework for gate-voltage-controlled ion transport in dielectric-embedded nanochannels, validated using CFD simulations in COMSOL.
+
+**Analytical & Numerical Modeling**  
+Investigating how external gate voltage modulates internal electrostatic potential, charge distribution, and ionic conductance in nanofluidic systems.
+
+**Experimental Fluid Mechanics**  
+Experienced in cleanroom micro/nano-fabrication, including Photolithography, ICPCVD, Plasma treatment, Piranha cleaning, and PDMS-based microchannel fabrication.
+
+**Numerical Methods & Control Systems**  
+Experienced in finite-volume solvers, geometric multigrid methods, immersed boundary methods, dynamic modeling, and robotic navigation/control simulations.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌊 [multigrid-and-ibm-heat-conduction](https://github.com/nave-markovich/multigrid-and-ibm-heat-conduction)
-*M.Sc. Project | Grade: 94*
-* Developed a 2D Finite Volume (FVM) heat solver handling extreme material discontinuities using **Geometric Multigrid (V-cycle)** and **preconditioned BiCgStab**.
-* Implemented an implicit **Immersed Boundary Method (IBM)** with **Schur complement** and non-orthogonal body-fitted grids.
+### 🌊 Advanced Numerical Methods CFD Solver  
+**M.Sc. Course Project | Grade: 94 | GitHub**
 
-### 🔬 Origin of a Novel Lift Force in Combined Poiseuille & Electrokinetic Flow
-*Senior Research Project | Grade: 99 | Presented at the Israel Physical Society (IPS) Annual Meeting*
-* Executed CFD analysis to investigate the forces acting upon colloidal particles in microchannels under combined pressure-driven flow and electric fields.
-* Derived and implemented complex **Bi-Spherical** and **Bi-Polar coordinate systems** for precise analytical-to-numerical validation.
+- Developed a 2D FVM heat solver for discontinuous materials using Geometric Multigrid and preconditioned BiCGStab.
+- Implemented an implicit Immersed Boundary Method (IBM) with Schur complement and non-orthogonal body-fitted grids.
 
-### 🏂 Snowboard Detachable Propulsion System
-*Design Project | Grade: 99*
-* Led the full mechanical design cycle using SolidWorks, creating complex 3D models, assemblies, and technical drawings (BOM) based on functional requirements.
-* Performed rigorous engineering analysis for optimal motor/battery system selection, material optimization, and fatigue calculations.
+---
+
+### 🤖 3-DOF Robotic Arm Navigation & Control Simulation  
+**M.Sc. Course Project | GitHub**
+
+- Developed a MATLAB-based simulation of a 3-DOF robotic arm, including kinematic and dynamic modeling.
+- Derived equations of motion and designed an artificial-potential-function controller for target navigation in 3D space.
+
+---
+
+### 🔬 Origin of a Novel Lift Force in Combined Poiseuille & Electrokinetic Flow  
+**Senior Research Project | Grade: 99 | Presented at the Israel Physical Society (IPS) Annual Meeting**
+
+- Executed CFD analysis to investigate forces acting upon colloidal particles in microchannels under combined pressure-driven flow and electric fields.
+- Derived and implemented Bi-Spherical and Bi-Polar coordinate systems for analytical-to-numerical validation.
+
+---
+
+### 🏂 Snowboard Detachable Propulsion System  
+**Design Project | Grade: 99**
+
+- Led the mechanical design cycle in SolidWorks, including 3D models, assemblies, technical drawings, and BOM.
+- Conducted literature and market research on operating conditions and environmental constraints to define system requirements.
+- Selected motor, battery, and materials through performance, fatigue, and safety analysis.
 
 ---
 
