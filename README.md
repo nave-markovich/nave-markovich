@@ -1,8 +1,9 @@
 # Hi, I'm Nave Markovich 👋
 
-## Mechanical Engineering M.Sc. Researcher | CFD & Fluid Dynamics Specialist
+## Mechanical Engineering M.Sc. Researcher | CFD & Fluid Dynamics Specialist | (M.Sc. GPA: 92.75)
 
-I am a Mechanical Engineering M.Sc. researcher at the Fluid Mechanics Laboratory, Ben-Gurion University of the Negev, specializing in fluid dynamics, electrokinetics, advanced CFD, and theoretical modeling.
+I am a Mechanical Engineering M.Sc. researcher at the Fluid Mechanics Laboratory, Ben-Gurion University of the Negev. 
+I specializing in fluid dynamics, electrokinetics, advanced CFD, theoretical modeling and numerical analysis of complex transport phenomena.
 
 My research focuses on gate-voltage-controlled ion transport in dielectric-embedded nanochannels, combining analytical modeling with CFD simulations in COMSOL to study electrostatic potential, charge distribution, and ionic conductance in nanofluidic systems.
 
@@ -14,7 +15,7 @@ I am highly motivated to apply strong theoretical foundations, numerical modelin
 
 ## 🛠️ Tech Stack & Skills
 
-**CFD & Simulation:** COMSOL Multiphysics, ANSYS, Finite Element Analysis (FEA), Numerical Analysis  
+**CFD & Simulation:** COMSOL Multiphysics, ANSYS, Finite Element Analysis (FEA & FVM & FDM), Numerical Analysis  
 **Mathematical & Analytical Modeling:** Wolfram Mathematica, MATLAB, theoretical modeling  
 **Programming:** MATLAB, SIMULINK, Python, C  
 **CAD & Mechanical Design:** SolidWorks, AutoCAD  
@@ -41,7 +42,7 @@ Experienced in finite-volume solvers, geometric multigrid methods, immersed boun
 ## 🚀 Featured Projects
 
 ### 🌊 Advanced Numerical Methods CFD Solver  
-**M.Sc. Course Project | Grade: 94 | GitHub**
+**M.Sc. Course Project | Grade: 94 | [💻 View Code](https://github.com/nave-markovich/multigrid-and-ibm-heat-conduction)**
 
 - Developed a 2D FVM heat solver for discontinuous materials using Geometric Multigrid and preconditioned BiCGStab.
 - Implemented an implicit Immersed Boundary Method (IBM) with Schur complement and non-orthogonal body-fitted grids.
@@ -49,7 +50,7 @@ Experienced in finite-volume solvers, geometric multigrid methods, immersed boun
 ---
 
 ### 🤖 3-DOF Robotic Arm Navigation & Control Simulation  
-**M.Sc. Course Project | GitHub**
+**M.Sc. Course Project **
 
 - Developed a MATLAB-based simulation of a 3-DOF robotic arm, including kinematic and dynamic modeling.
 - Derived equations of motion and designed an artificial-potential-function controller for target navigation in 3D space.
