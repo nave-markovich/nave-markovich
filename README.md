@@ -1,6 +1,6 @@
 # Hi, I'm Nave Markovich 👋
 
-## Mechanical Engineering M.Sc. Researcher | CFD & Fluid Dynamics Specialist | (M.Sc. GPA: 92.75)
+## Mechanical Engineering M.Sc. Researcher | CFD & Fluid Dynamics Specialist | (M.Sc. GPA: 94.33)
 
 I am a Mechanical Engineering M.Sc. researcher at the Fluid Mechanics Laboratory, Ben-Gurion University of the Negev. 
 I specializing in fluid dynamics, electrokinetics, advanced CFD, theoretical modeling and numerical analysis of complex transport phenomena.
